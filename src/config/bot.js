@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Custom Status", // required by Discord API, not shown in the client
         state: "Za niedługo tiktok z Linkiem",     // this is what people actually see
-        type: 3,               // Custom
+        type: 3,               // PornHub
       },
     ],
   },
