@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Za niedługo tiktok z Linkiem",     // this is what people actually see
-        type: 3,               // PornHub
+        name: "Wstawia Tiktoki", // required by Discord API, not shown in the client
+        state: "Kukirin Bot",     // this is what people actually see
+        type: 3,               // 
       },
     ],
   },
