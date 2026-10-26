@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Wstawia Tiktoki", // required by Discord API, not shown in the client
-        state: "Kukirin Bot",     // this is what people actually see
+        name: "Wymienia gotówke", // required by Discord API, not shown in the client
+        state: "Bitcoin",     // this is what people actually see
         type: 3,               // 
       },
     ],
