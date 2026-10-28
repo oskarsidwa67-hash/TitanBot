@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Wymienia gotówke", // required by Discord API, not shown in the client
-        state: "Bitcoin",     // this is what people actually see
+        name: "Bot Do Najbardziej L3gitengo serwa", // required by Discord API, not shown in the client
+        state: "BoostC4rt",     // this is what people actually see
         type: 3,               // 
       },
     ],
@@ -93,7 +93,7 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#16753920",
+      primary: "#",
       secondary: "#2F3136",
 
       // Standard status colors for success/error/warning/info messages.
